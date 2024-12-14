@@ -1,0 +1,83 @@
+Found in: https://tolklang.quettar.org/messages/Vol12/12.46
+Date: Fri, 2 Jun 95 18:33:19 CST
+From: Jaime Moraga <jim@moai.usach.cl>
+To: tolklang@dcs.ed.ac.uk
+Subject: Trying to translate Genesis... v4
+Sender: tolklang-request@dcs.ed.ac.uk
+Message-ID: <TolkLang-12.46@dcs.ed.ac.uk>
+Reply-To: Tolkien Language List <tolklang@dcs.ed.ac.uk>
+X-Keywords: Quenya
+X-Message-Number: 12.46
+X-Original-From: Jaime Moraga <jim@moai.usach.cl>
+
+Here are the first 8 verses, and 11 more in draft... any comment will be
+apreciated....
+
+   Jaime
+
+------------------------o-----------------------------------
+Esse Eru ontane meneli ar kemen.
+Ar kemen ne kumna ar lusta,
+ar mornier ne palmesse undumeo.
+Ar palmesse i-linquion Erusuule nore.
+Ar Eru quente: Ea kala; ar kala aine
+Ar Eru kenne i maarie i kala; ar Eru uusange kala ho mornier.
+Ar Eru i-kala estaneero arya, ar i-mornier estaneero loo.
+Ar minya are e`ie anaroore ar anarnuuta.
+ 
+Taare Eru quente: Ea endesse linquion palyale,
+ar linqui ho linqui nai uusanga
+Ar Eru estane palyale menel. 
+Ar neuna are e`ie anaroore ar anarnuuta.
+ 
+-------------------------------------------------------------
+ 
+taare eru quente: sanga linqui undumeneleva ermenesse,
+ar uutupa ea paraktale. Ar tana e`ie
+Ar Eru paraktale entaneero kemen, 
+ar entane i linqui sangaleva eareni.
+Ar Eru kenne i maarie yana.
+Ala tana Eru quente: tyar kemen laiqua salque,
+erdetyaro salque; yaavetyaro alda kara i yaave ve nostalerwante,
+i erdenta na entasse. Ar tana e`ie.
+Tyarne kemen, taare, laiqua salque erdetyaro ve nostalerwante,
+ar yaavetyaro alda, i erdenta na entasse ve nostalerwante.
+Ar Eru kenne i maarie yana.
+Ar nela are e`ie anaroore ar anarnuuta.
+ 
+Ar quente Eru: ear menelkala palyalesse meneleva
+uusangie loo arello; ar maare ea eeser luumis, aris, ar koranaris,
+ar menelkalar palyalesse meneleva eante kalye amkemenesse.
+Ar tana e`ie
+Ar eru karane i atta altar menelkalar;
+i alta menelkala heruie arya, 
+ar i piinea menelkala heruie loo;
+ar karaneero i eleni.
+Ar Eru tulkeeronte palyalesse menelion ana kalyente amkemnesse,
+ar heruie aryasse ar loosse ar an uusangie kala ho mornie.
+Ar Eru kenne i maarie yana.
+Ar kana are e`ie anaroore ar anarnuuta
+ 
+_undumenel_ sky-under
+_ermen_ one-place, some place.
+_uutuupa_  V. un-cover
+_paraktale_ < _parakta_+_le_ N.dry < _parak_+_ta_ V.dry < PE _parak_ A.dry
+[compare _paraktie_ 'to dry, drying', N. 'drier']
+_Ala tana_: ADV after that, beyond that, besides, also 
+VK? [Q. _tarta_ < PE _thar-ta_ 'beyond that']
+ 
+_erdetyaro_: A. seed-maker _erde_+_tyaro_ 
+_nostale-rwa-nte_ kind-his-they > they of his kind
+_erdenta_ fruit-they[gen.]
+_entasse_ they [loc.sg]
+_yaavetyaro_: A. fruit-maker _yaave_+_tyaro_
+ 
+_nela_ 'third' < PE _nel_ 'three'
+[as PE _mini_ 'one' > _mini-aa_ > Q. _minya_ 'first'] 
+_menelkala_ N. sky-light
+_eante_ be-they
+_karane_ n-past < _kara_ V 'make' < PE {kar} > Q._karne_ 'built, made'
+[maybe it should replace _ontane_ in _Eru ontane meneli ar kemen_]
+_heruie_ 'ruling, to rule'
+[_ana heru_ 'to rule' ?]
+_kana_ 'fourth' < PE _kAnat_ 'four' > Q. _kanta_, _kan-_ four
