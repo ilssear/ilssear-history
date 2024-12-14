@@ -1,6 +1,3 @@
-Here’s the story formatted as Markdown:
-
-```markdown
 # The Story of **Ilssëar Andovaryo**
 
 Here is the story of **Ilssëar Andovaryo**, also known as **"The Ever-Seeking"** and **"The Light-Bringer."**
@@ -54,4 +51,3 @@ What is certain is that his spirit remains a beacon. Tales of **The Ever-Seeking
 Wherever the Eldar look to the stars and seas, they remember him, for he embodied the deepest truths of their people: to seek beauty, to guard it fiercely, and to let its light shine for all.
 
 ---
-```
