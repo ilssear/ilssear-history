@@ -1,0 +1,167 @@
+Found in: https://tolkienlistsearch.herokuapp.com/message/5e9c36107062c28a02880366
+
+Re: Trying to translate Genesis...
+Jaime Moraga
+Wed, 31 May 95 21:46:31 CST
+tolklang 12.35
+
+            ...@... wrote
+> On Mon, 29 May 95 18:30:15 CST, Jaime Moraga <...@...> said:
+> > Esse Eru ontane meneli ar kemen. 
+
+> I think _onta_ is fine, although a case could be made for _vala_ (WotJ)
+> `have sthg done by Vala-like authority'.  Note that _onta_ also means
+> `beget', and theologians like to make much of the difference between
+> begetting and creation.  The Hebrew original refers to God's creation
+> by the verb <bArA'>, which is not used for anything else.
+> 
+> As for the past tense form, it is not known for a fact that _onte_ is
+> incorrect, but it is safer to use the form provided by JRRT whenever
+> there is one, at least until we learn more about the Q tense system.
+> The past tense of _vala_ may be _valane_, _valle_ or _va'le_.
+
+Do you mean to use vala as a verb? or make a word for vala-like creation?
+ 
+> > the heavens (sky and heaven as a spiritual place) and the earth
+> 
+> I'm still not enthusiastic about _meneli_; the Hebrew noun is plural,
+> but that's no more than an idiosyncratic thing about Hebrew.  _Menel_
+> is singular in all Quenya text, I think.
+I've no knowledge of hebrew (and just a bit of arabic) but I've a bible
+with references and there are references between the 'skies' from genesis
+and those of psalms 36.5, 102.25-27 (Hebrews 1.10) and 136.5. Besides, it's 
+true that is plenty of 'skies' in my bible, but there is 'sky' too as
+in Gen.7,23: "..., and the birds from the sky; and they were..." speaking 
+about the destruction of the living beings on Noah's time.
+ 
+> > Ar kemen ne ruukina ar lusta,
+> > And the earth was [ne: e-past "na"]
+> 
+> I suppose that will have to do for the moment, until a past tense form
+> of the copula is found.  It will probably be something unpredictable.
+ok. :)
+ 
+> > disordered [I prefer "disordered" to "void", for "empty" is the next
+> > word and there's the absence of God's order on the earth] and empty
+> 
+> The only potential problem with `disordered' is that it may imply that
+> the earth had been ordered earlier and then the order had been destroyed.
+> As for both words meaning `empty', that seems to be the case in the Hebrew.
+> (Any Israelves reading this?)
+I'll use "kumna ar lusta" for void and empty. (I thought in kuuma - kumna and
+Chaos - chaos).
+ 
+> > ar lumbuler ne palmesse undumeo.
+> > and the shadows were upon the face [lit. on the surface] of the abyss
+> 
+> The word in the original means `darkness', I think, rather than `shadows'.
+ok. that's true but I think on an elf reading in Quenya this translation, 
+and what would he understand.
+ 
+> > Ar palmesse i-linquion Erusuule nore.
+> > and upon the face of the waters the spirit of God [Ivan Derzhanski
+> > suggested Eruva (Eru-waa: God-wind)? but I prefer Eru-su'le] moved
+> 
+> No, I meant _Eruva_ as the possessive genitive (WotJ) of _Eru_, but
+> the compound _Erusu'le_ is better.
+>
+besides, there's no need of "atso"... I've no notice on reflexive pronouns
+but... how about reflexive verbs??
+ 
+> > Ar Eru kene i maarie i kala; ar Eru uusange kala ho lumbuler.
+> > And God saw [ken-e from ken-a "V. see" in a poem on "A Secret Vice",
+> 
+> Note that _e_-pasts have a long stem vowel whenever possible, so that
+> should be _ke'ne_ or _kenne_.
+I vote for kenne.
+ 
+> > [...]] the goodness of the light
+> 
+> Actually, _ma'rie_ < _ma'ra ye_ `good is'.
+> 
+appointed...when at home, too late maybe :)
+
+> > [i kala aine maarnat: that a good thing was (?)];
+> 
+> No, your first version is much better.  *_ma'rnat_ sounds awkward.
+> 
+all right, just a suggestion.
+
+> > and God separed the light from the darkness
+> 
+> It would be good if you didn't have to say `ungather' for `separate'.
+> Perhaps _ki're_ `cut, clove'?  Or something with _ter-_ `asunder'?
+> 
+_ter(e)-_ PREP through
+_tereva_ A piercing, fine, acute
+the root TER(ES) itself is the verb pierce.
+so, I prefer un-gather till I find a word for separe (there's no need
+of cutting or piercing or slashing to separe light from darkness).
+maybe if translate poetically i'd use such words.
+ 
+
+> > Ar Eru estane i-kala arya, ar estane i-lumbule loo.
+> > And God named the light day, and named the darkness night.
+> 
+> Or _... ar i mornie estane'ro lo'_.
+> 
+> > [Ar Eru estane i-kala aryan (dative) ???, to make clear that the
+> > LIGHT was named DAY]
+> 
+> No, don't use the dative here.  We don't know that it is grammatical.
+right, I repented after posting.
+ 
+> > Ar minya daana e.ie anaroore ar anarnuuta.
+> > And the first day [daana: day (BOLT)] was sunrise and sunset
+> 
+> There isn't any _da'na_ in BoLT (nor could there be, seeing that _d_ only
+> occurs after _n_, _r_ and _l_ in Quenya, never in word-initial position);
+> the word that is there is _Lomenda'nar_ `Days of Gloaming', thus `day' is
+> either *_la'na_ (PE _d-_) or *_na'na_ (PE _nd-_).  On the other hand, it
+> says in BoLT that _dana_ is listed in GL `with reference to Qenya _sana_
+> (not in QL)'.  I've no idea how Q(u)enya _s-_ can correspond to Goldogrin
+> _d-_, but _sana_ probably does mean `day'.  (Any other ideas, anyone?)
+I've Sin. dana, Que. daana (maybe wrong) both from BoLT
+the PE root ar-  :day
+and the PE ari   :day
+Que. are :day <--- I'll use it now.
+
+about Lomendaanar I'd say it's Lomenda'n-ar with the "ar-" as suffix, usually
+quenya uses "-re", but that's for special days of the year, the kind I'd
+use for "christmas", "new year", etc. but there's "lemnar": 
+   <lem(i)n-ar> Valian week (five days).
+
+ 
+> > Taare Eru quente: Ea enyesse linquion i palya, 
+> > Then God said: be the expansion [i-palya: infinitive used as noun+nom.case]
+> 
+> I'm not sure whether _palya_, the base form listed in Etym, can be
+> called an infinitive; it does appear as such in some constructions,
+> but that doesn't mean that it can be used as _nomen actionis_.
+> _palyale_ may be ambiguous, but is more likely to be grammatical.
+> 
+> Also, why `the expansion'?  I think you mean `an expansion', since
+> none exists as yet.
+I do accept the argument... version 3 will use palyale. Anyways it's 
+"the expansion", and "the heavens expansion, where the birds fly" of Gen.1,20
+
+ 
+> > in the middle of the waters [enye-esse : middle+loc. case]
+> 
+> Should be _endesse_ (_en(d)ya_ looks like an adjective to me).
+
+I was wrong... (that's for working without my notes) it should have been, 
+at least, _enyasse_ (_en(d)ya-sse_ loc.sing. as cirya -> ciryasse) 
+
+Now, from ETYM we have PE _ened-_ 'centre'
+PE _ened-_ > Q. _ende_ middle, centre, core > _endesse_ 'in the middle'
+
+> -- 
+> `So they widny bow doon tae me, wid they no?! [...] They deserve their paiks.'
+> Ivan A Derzhanski (...@...)    (J Stuart, _Auld Testament Tales_)
+> * Centre for Cognitive Science,  2 Buccleuch Place,   Edinburgh EH8 9LW,  UK
+> * Cowan House E113, Pollock Halls, 18 Holyrood Pk Rd, Edinburgh EH16 5BD, UK
+> 
+
+
+Jaime Moraga Z.
