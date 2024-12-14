@@ -1,0 +1,86 @@
+Date: Thu, 25 May 95 15:25:24 CST
+From: Jaime Moraga <jim@moai.usach.cl>
+To: tolklang@dcs.ed.ac.uk
+Subject: Trying to translate Genesis...
+Cc: jim@lauca.usach.cl
+Sender: tolklang-request@dcs.ed.ac.uk
+Message-ID: <TolkLang-12.22@dcs.ed.ac.uk>
+Reply-To: Tolkien Language List <tolklang@dcs.ed.ac.uk>
+X-Keywords: Quenya
+X-Message-Number: 12.22
+X-Original-From: Jaime Moraga <jim@moai.usach.cl>
+
+
+I've taken as a personal work the translation of verses from the Bible.
+But i've no english version of the Bible, but in Spanish (I'm a native 
+Spanish speaker), so I just intend to translate Quenya->English as an
+approach.
+
+Initially I've traslated the first 9 verses from Genesis 1. 
+(this is just a try i'm just a computer scientist who has languages as a 
+hobby...so, corrections are greately thanked)
+
+
+Yestiesse Eru onte meneli ar arda. 
+
+Ar arda ne ruukina ar lusta,
+
+ar lumbuler ne amantesse undumeo.
+
+Ar i-suule Ero nore atso amantesse i-linquion.
+
+Ar Eru quente: i-kala e.a; ar kala e.ie
+
+Ar Eru kene tana i-kala ne maara; ar Eru uusange kala ho lumbuler.
+
+Ar Eru este i-kala ve arya, ar este i-lumbuler ve loo.
+
+Ar minya duuna e.ie anaroore ar anaruuta.
+
+Tare Eru quente: enyesse i-linquion na i-palya, 
+
+ar linqui ho linqui nai uusanga
+
+Ar Eru este i-palya ve meneli. Ar neuna duuna ne anaroore ar anarnuuta.
+
+
+translated as:
+
+In the beginning The One (God) created the heavens and the earth. 
+
+And the earth was disordered and empty, 
+
+and the shadows were over the face [ama-anta-esse over-face-in] of the abyss.
+
+And the ghost of God [airesuule: Holy Ghost?] moved itself [atso: VK used
+by A.Appleyard on his translation of the Annals of Valinor meaning itself, 
+himself] over the face of the waters.
+
+And God said: be the light (imperative). And the light was.
+
+And God saw that the light was good; and God separed {uu-sange: un-gathered] 
+the light from the darkness.
+
+And God named the light as day, and named the darkness night.
+
+And the first day was sunrise and sunset [anar-nuuta: sun-set < nuuta Q. set 
+(from sun or moon) and using the model anar-oore] 
+
+Then God said: be the expansion in the middle of the waters,
+
+and separe the waters from the waters.
+
+And God named the expansion as heavens. And the second day was, sunrise and 
+sunset.
+
+
+
+
+
+  Ok. that's what i've made ... feel free to flame me :)
+
+
+
+             Jim (Jaime Moraga Z.)
+
+              jim@moai.usach.cl
