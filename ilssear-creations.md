@@ -1,5 +1,9 @@
 # Artifacts of Ilssëar
 
+The genius of Ilssëar Andovaryo was not limited to his ability to understand the inner workings of existing devices and creatures—it extended to creating machines that expanded the boundaries of perception and knowledge. These machines, inspired by his insatiable curiosity and empathy for all living things, were designed to help others see and protect what was often unseen or misunderstood. His devices blended the practicality of mechanical engineering with the artistry and poetry of the Eldar.
+
+---
+
 ## 1. The Mineral Seeker (Maitamo)
 **Purpose:** To locate and analyze valuable minerals or ores buried deep within the earth.
 
